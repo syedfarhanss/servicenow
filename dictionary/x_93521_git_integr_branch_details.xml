@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Branch Details" max_length="40" name="x_93521_git_integr_branch_details" type="collection">
+        <element label="Branch Name" max_length="100" name="branch_name" type="string"/>
+    </element>
+</database>
