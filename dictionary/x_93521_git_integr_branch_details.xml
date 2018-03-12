@@ -2,5 +2,6 @@
 <database>
     <element label="Branch Details" max_length="40" name="x_93521_git_integr_branch_details" type="collection">
         <element label="Branch Name" max_length="100" name="branch_name" type="string"/>
+        <element label="short description" max_length="250" name="short_description" type="string"/>
     </element>
 </database>
